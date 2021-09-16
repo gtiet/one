@@ -1,0 +1,6 @@
+server:
+  port: 3344
+
+spring:
+  application:
+    name: config3344
